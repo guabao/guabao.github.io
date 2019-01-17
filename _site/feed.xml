@@ -5,15 +5,38 @@
     <description>Hello World!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 18 Jan 2019 05:25:55 +0800</pubDate>
-    <lastBuildDate>Fri, 18 Jan 2019 05:25:55 +0800</lastBuildDate>
+    <pubDate>Fri, 18 Jan 2019 06:24:17 +0800</pubDate>
+    <lastBuildDate>Fri, 18 Jan 2019 06:24:17 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Project Collection</title>
+        <description>&lt;p&gt;This page collects all the projects I have worked with:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/guabao/data_analysis&quot;&gt;data_analysis&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/guabao/band_fraction&quot;&gt;band_fraction&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Thu, 17 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/01/project+list/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/project+list/</guid>
+        
+        <category>Unknown</category>
+        
+        
+      </item>
     
       <item>
         <title>Hello World</title>
         <description>&lt;p&gt;Here is a sample post.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 16 Jan 2019 19:30:00 +0800</pubDate>
+        <pubDate>Wed, 16 Jan 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2019/01/sample-post/</link>
         <guid isPermaLink="true">http://localhost:4000/2019/01/sample-post/</guid>
         
