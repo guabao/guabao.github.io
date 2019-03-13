@@ -15,6 +15,8 @@ Here are some useful link:
 
 [Another wiki](https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Information_geometry.html)
 
+[Information Geometry page in nlab](https://ncatlab.org/nlab/show/information+geometry)
+
 [Videolecture, Sanjoy Dasgupta, 2007](http://videolectures.net/mlss05us_dasgupta_ig/)
 
 [Videolecture, Shun-ichi Amary, 2008](http://videolectures.net/etvc08_amari_igaia/)
