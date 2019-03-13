@@ -11,13 +11,16 @@ layout: post
 Here are some useful link:
 
 ## Information geometry
+[Information Geometry on wikipedia](https://en.wikipedia.org/wiki/Information_geometry)
 
-[https://en.wikipedia.org/wiki/Information_geometry](Information Geometry on wikipedia)
-[https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Information_geometry.html](Another wiki)
-[http://videolectures.net/mlss05us_dasgupta_ig/](Videolecture, Sanjoy Dasgupta, 2007)
-[http://videolectures.net/etvc08_amari_igaia/](Videolecture, Shun-ichi Amary, 2008)
+[Another wiki](https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Information_geometry.html)
+
+[Videolecture, Sanjoy Dasgupta, 2007](http://videolectures.net/mlss05us_dasgupta_ig/)
+
+[Videolecture, Shun-ichi Amary, 2008](http://videolectures.net/etvc08_amari_igaia/)
 
 ## coding config
 
-[https://spacevim.org](Spacevim)
-[https://coding.net/help/doc/project/markdown.html](Markdown)
+[Spacevim](https://spacevim.org)
+
+[Markdown](https://coding.net/help/doc/project/markdown.html)
