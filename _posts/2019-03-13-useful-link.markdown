@@ -30,3 +30,8 @@ Here are some useful link:
 ## coding source
 
 [Real World Ocaml](http://dev.realworldocaml.org)
+
+
+## some challenge question websites
+
+[Brilliant](https://brilliant.org/daily-problems/)
