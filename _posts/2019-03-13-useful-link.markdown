@@ -17,6 +17,8 @@ Here are some useful link:
 
 [Information Geometry page in nlab](https://ncatlab.org/nlab/show/information+geometry)
 
+[John Baez's blog](http://math.ucr.edu/home/baez/information/)
+
 [Videolecture, Sanjoy Dasgupta, 2007](http://videolectures.net/mlss05us_dasgupta_ig/)
 
 [Videolecture, Shun-ichi Amary, 2008](http://videolectures.net/etvc08_amari_igaia/)
