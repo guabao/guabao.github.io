@@ -7,3 +7,6 @@ comments: true
 layout: post
 ---
 
+In this post, we try to solve an interesting least square problem:
+
+$$\underset{X}{\text{minimize}} ||AX-B||_{2}^{2}$$
