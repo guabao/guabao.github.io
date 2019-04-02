@@ -31,6 +31,8 @@ Here are some useful link:
 
 [Mathjax tutorial](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
 
+[Mathjax document](http://docs.mathjax.org/en/latest/tex.html)
+
 ## coding source
 
 [Real World Ocaml](http://dev.realworldocaml.org)
