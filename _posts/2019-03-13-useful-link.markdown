@@ -29,6 +29,8 @@ Here are some useful link:
 
 [Markdown](https://coding.net/help/doc/project/markdown.html)
 
+[Mathjax tutorial](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
+
 ## coding source
 
 [Real World Ocaml](http://dev.realworldocaml.org)
