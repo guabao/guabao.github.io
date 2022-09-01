@@ -11,4 +11,6 @@ I am a Machine Learning Engineer in Meta. Previously I was working in JD Digits 
 
 Personal [CV](guabao.github.io/archive/resume/Resume_jiazhou_wang_2022_08.pdf)
 
+Google scholar: [Jiazhou Wang](https://scholar.google.com/citations?user=R98yPqkAAAAJ&hl=en&oi=ao)
+
 (more to come)
