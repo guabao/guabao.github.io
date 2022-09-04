@@ -7,7 +7,11 @@ comments: true
 layout: post
 ---
 
-I am a Machine Learning Engineer in Meta. Previously I was working in JD Digits and Alphacrest Capital management LLC.
+I am a Machine Learning Engineer in Meta. Previously I was working in JD Digits and Alphacrest Capital management LLC. Here are some topics I am interested in:
+
+[Information Geometry](https://en.wikipedia.org/wiki/Information_geometry)\
+Numerical Optimization\
+Reinforcement Learning
 
 Personal [CV](https://guabao.github.io/archive/resume/Resume_jiazhou_wang_2022_08.pdf)
 
