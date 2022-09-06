@@ -17,4 +17,12 @@ Personal [CV](https://guabao.github.io/archive/resume/Resume_jiazhou_wang_2022_0
 
 Google scholar: [Jiazhou Wang](https://scholar.google.com/citations?user=R98yPqkAAAAJ&hl=en&oi=ao)
 
+### publications and preprints
+
+[Fedlearn-Algo: A flexible open-source privacy-preserving machine learning platform](https://arxiv.org/pdf/2107.04129)\
+&nbsp;&nbsp;&nbsp;&nbsp;Bo Liu, Chaowei Tan, Jiazhou Wang, Tao Zeng, Huasong Shan, Houpu Yao, Heng Huang, Peng Dai, Liefeng Bo, Yanqing Chen
+
+[An Efficient and Robust System for Vertically Federated Random Forest](https://arxiv.org/pdf/2201.10761)\
+&nbsp;&nbsp;&nbsp;&nbsp;Houpu Yao, Jiazhou Wang, Peng Dai, Liefeng Bo, Yanqing Chen
+
 (more to come)
