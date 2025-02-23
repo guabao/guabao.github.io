@@ -1,0 +1,4 @@
+I"~<p>In this post, we try to solve an interesting least square problem:</p>
+
+\[\underset{X}{\text{minimize}} ||AX-B||_{2}^{2}\]
+:ET
