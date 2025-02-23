@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Conditional Number"
+title                    : "Condition Number"
 title_separator          : "-"
 name                     : &name "Jiazhou Wang"
 description              : &description "Jiazhou's personal page"
