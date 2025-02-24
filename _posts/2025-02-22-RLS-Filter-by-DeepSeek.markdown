@@ -50,7 +50,7 @@ The **Recursive Least Squares (RLS) filter** is an adaptive algorithm used in si
 
 ### **Key Concepts**
 1. **Objective**:  
-   Minimize the **weighted sum of squared errors** between a desired signal \( d(n) \) and the filter output \( y(n) \), using recursive updates (no matrix inversion per iteration).
+   Minimize the **weighted sum of squared errors** between a desired signal \\\( d(n) \\\) and the filter output \\\( y(n) \\\), using recursive updates (no matrix inversion per iteration).
 
 2. **Applications**:  
    - System identification (e.g., modeling unknown systems).  
@@ -62,11 +62,11 @@ The **Recursive Least Squares (RLS) filter** is an adaptive algorithm used in si
 ### **How It Works**
 1. **Recursive Updates**:  
    - Coefficients are updated as new data arrives, avoiding direct matrix inversion via the **matrix inversion lemma** (Sherman-Morrison formula).  
-   - Uses a **forgetting factor** (\\\( \lambda \\\), typically \\\( 0 < \\\lambda \\\leq 1 \\\)) to weight recent data more heavily, enabling tracking of non-stationary signals.
+   - Uses a **forgetting factor** (\\\( \lambda \\\), typically \\\( 0 < \lambda \leq 1 \\\)) to weight recent data more heavily, enabling tracking of non-stationary signals.
 
 2. **Algorithm Steps**:  
-   - **Initialize**: Filter weights \( \mathbf{w}(0) \), inverse correlation matrix \( \mathbf{P}(0) = \delta^{-1} \mathbf{I} \) (small \(\delta > 0\)).  
-   - For each time step \( n \):  
+   - **Initialize**: Filter weights \\\( \mathbf{w}(0) \\\), inverse correlation matrix \\\( \mathbf{P}(0) = \delta^{-1} \mathbf{I} \\\) (small \\\(\delta > 0\\\)).  
+   - For each time step \\\( n \\\):  
      1. Compute gain vector:  
         \[
         \mathbf{k}(n) = \frac{\mathbf{P}(n-1) \mathbf{u}(n)}{\lambda + \mathbf{u}^T(n) \mathbf{P}(n-1) \mathbf{u}(n)}
@@ -79,29 +79,29 @@ The **Recursive Least Squares (RLS) filter** is an adaptive algorithm used in si
         \[
         \mathbf{P}(n) = \lambda^{-1} \mathbf{P}(n-1) - \lambda^{-1} \mathbf{k}(n) \mathbf{u}^T(n) \mathbf{P}(n-1)
         \]  
-   - \( \mathbf{u}(n) \): Input signal vector at time \( n \).
+   - \\\( \mathbf{u}(n) \\\): Input signal vector at time \\\( n \\\).
 
 ---
 
 ### **Advantages vs. Disadvantages**
 | **Pros**                          | **Cons**                          |
 |-----------------------------------|-----------------------------------|
-| Faster convergence than LMS.      | Higher complexity (\( O(n^2) \)). |
+| Faster convergence than LMS.      | Higher complexity (\\\( O(n^2) \\\)). |
 | Exact solution to least squares.  | Risk of numerical instability.    |
-| Tracks time-varying systems well. | Sensitive to \(\lambda\) choice.  |
+| Tracks time-varying systems well. | Sensitive to \\\(\lambda\\\) choice.  |
 
 ---
 
 ### **Comparison to LMS**
-- **LMS (Least Mean Squares)**: Simpler (\( O(n) \) complexity), robust, but slower convergence.  
+- **LMS (Least Mean Squares)**: Simpler (\\\( O(n) \\\) complexity), robust, but slower convergence.  
 - **RLS**: Faster convergence, optimal for stationary data, but computationally intensive and sensitive to parameters.
 
 ---
 
 ### **Practical Considerations**
-- **Forgetting Factor (\( \lambda \))**:  
+- **Forgetting Factor (\\\( \lambda \\\))**:  
   - Closer to 1: Suited for stationary signals.  
-  - Smaller \( \lambda \): Better for non-stationary environments (e.g., \( \lambda = 0.95 \)).  
+  - Smaller \\\( \lambda \\\): Better for non-stationary environments (e.g., \\\( \lambda = 0.95 \\\)).  
 - **Numerical Stability**: Use stabilized RLS variants (e.g., QR-RLS) to avoid matrix ill-conditioning.
 
 ---
