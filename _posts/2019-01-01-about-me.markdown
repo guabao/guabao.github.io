@@ -1,10 +1,13 @@
 ---
-title: About me
+title: About Me
 date: 2022-08-08
-tags: Unknown
-author: Jiazhou Wang
-comments: true
-layout: post
+toc: true
+toc_sticky: true
+toc_label: "Table of Contents"
+categories:
+  - blog
+tags:
+   - Misc
 ---
 
 I am a Machine Learning Engineer in Meta. Previously I was working in JD Digits and Alphacrest Capital management LLC. Here are some topics I am interested in:
@@ -13,7 +16,7 @@ I am a Machine Learning Engineer in Meta. Previously I was working in JD Digits 
 Numerical Optimization\
 Reinforcement Learning
 
-Personal [CV](https://guabao.github.io/archive/resume/Resume_jiazhou_wang_2022_08.pdf)
+Personal [CV](https://guabao.github.io/asserts/files/Resume_jiazhou_wang_2022_08.pdf)
 
 Google scholar: [Jiazhou Wang](https://scholar.google.com/citations?user=R98yPqkAAAAJ&hl=en&oi=ao)
 

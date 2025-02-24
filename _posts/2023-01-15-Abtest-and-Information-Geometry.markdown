@@ -1,10 +1,14 @@
 ---
 title: Abtest and Information Geometry
 date: 2023-01-05
-tags: Information Geometry
-author: Jiazhou Wang
-comments: true
-layout: post
+toc: true
+toc_sticky: true
+toc_label: "Table of Contents"
+categories:
+  - blog
+tags:
+   - Information Geometry
+   - Research
 ---
 
 Happy new year!

@@ -1,10 +1,13 @@
 ---
 title: Joining meta and Koopman operator theory
 date: 2022-08-08
-tags: Unknown
-author: Jiazhou Wang
-comments: true
-layout: post
+toc: true
+toc_sticky: true
+toc_label: "Table of Contents"
+categories:
+  - blog
+tags:
+   - Misc
 ---
 
 Hey, I joined Meta recently after leaving from JD Digits.

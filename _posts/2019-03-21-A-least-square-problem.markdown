@@ -1,10 +1,13 @@
 ---
 title: A least square problem
 date: 2019-03-21
-tags: Unknown
-author: Jiazhou Wang
-comments: true
-layout: post
+toc: true
+toc_sticky: true
+toc_label: "Table of Contents"
+categories:
+  - blog
+tags:
+   - Research
 ---
 
 In this post, we try to solve an interesting least square problem:
