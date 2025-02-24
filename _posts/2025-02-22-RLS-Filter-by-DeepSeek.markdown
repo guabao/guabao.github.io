@@ -1,10 +1,15 @@
 ---
 title: RLS Filter by DeepSeek
 date: 2025-02-22
-tags: Filters
 author: Jiazhou Wang
 comments: true
-layout: post
+toc: true
+toc_sticky: true
+toc_label: "Table of Contents"
+categories:
+  - blog
+tags:
+   - Filters
 ---
 
 Happy 2025!
