@@ -68,17 +68,17 @@ The **Recursive Least Squares (RLS) filter** is an adaptive algorithm used in si
    - **Initialize**: Filter weights \\\( \mathbf{w}(0) \\\), inverse correlation matrix \\\( \mathbf{P}(0) = \delta^{-1} \mathbf{I} \\\) (small \\\(\delta > 0\\\)).  
    - For each time step \\\( n \\\):  
      1. Compute gain vector:  
-        \[
+        \\\[
         \mathbf{k}(n) = \frac{\mathbf{P}(n-1) \mathbf{u}(n)}{\lambda + \mathbf{u}^T(n) \mathbf{P}(n-1) \mathbf{u}(n)}
-        \]  
+        \\\]  
      2. Update filter weights:  
-        \[
+        \\\[
         \mathbf{w}(n) = \mathbf{w}(n-1) + \mathbf{k}(n) \left[ d(n) - \mathbf{u}^T(n) \mathbf{w}(n-1) \right]
-        \]  
+        \\\]  
      3. Update inverse correlation matrix:  
-        \[
+        \\\[
         \mathbf{P}(n) = \lambda^{-1} \mathbf{P}(n-1) - \lambda^{-1} \mathbf{k}(n) \mathbf{u}^T(n) \mathbf{P}(n-1)
-        \]  
+        \\\]  
    - \\\( \mathbf{u}(n) \\\): Input signal vector at time \\\( n \\\).
 
 ---
