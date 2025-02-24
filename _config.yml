@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "My life is being optimized"
+  location         : "Earth"
+  email            : "jiazhou.wang@gmail.com" 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
