@@ -62,7 +62,7 @@ The **Recursive Least Squares (RLS) filter** is an adaptive algorithm used in si
 ### **How It Works**
 1. **Recursive Updates**:  
    - Coefficients are updated as new data arrives, avoiding direct matrix inversion via the **matrix inversion lemma** (Sherman-Morrison formula).  
-   - Uses a **forgetting factor** (\( \lambda \), typically \( 0 < \lambda \leq 1 \)) to weight recent data more heavily, enabling tracking of non-stationary signals.
+   - Uses a **forgetting factor** (\\\( \lambda \\\), typically \\\( 0 < \\\lambda \\\leq 1 \\\)) to weight recent data more heavily, enabling tracking of non-stationary signals.
 
 2. **Algorithm Steps**:  
    - **Initialize**: Filter weights \( \mathbf{w}(0) \), inverse correlation matrix \( \mathbf{P}(0) = \delta^{-1} \mathbf{I} \) (small \(\delta > 0\)).  
