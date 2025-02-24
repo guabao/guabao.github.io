@@ -1,7 +1,6 @@
 ---
 title: RLS Filter by DeepSeek
 date: 2025-02-22
-author: Jiazhou Wang
 comments: true
 toc: true
 toc_sticky: true
