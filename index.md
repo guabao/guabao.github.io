@@ -13,5 +13,7 @@ header:
     - label: "View Blog"
       url: "/blog/"
   caption: "Photo credit: OpenAI"
-excerpt: "<h2 id=\"header\">I am a <span class=\"typewrite\" data-period=\"1000\" data-type='[ \"Student\", \"Programmer\", \"Maker\", \"Adventurer\" ]'><span class=\"wrap\"></span></span>.</h2>"
+excerpt: "<h2 id=\"header\">I am a <span class=\"typewrite\" data-period=\"1000\" data-type='[ \"Machine Learning Engineer\", \"Researcher\", \"Adventurer\" ]'><span class=\"wrap\"></span></span>.</h2>"
 ---
+
+{% include typewriter.html %}
