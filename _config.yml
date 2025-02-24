@@ -118,6 +118,17 @@ author:
   bio              : "My life is being optimized"
   location         : "Earth"
   email            : "jiazhou.wang@gmail.com" 
+  
+  # Academic websites
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=R98yPqkAAAAJ&hl=en&oi=ao"
+  impactstory      : # URL
+  orcid            : # "http://orcid.org/yourorcidurl"
+  semantic         : # URL
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # URL
+  scopus           : # URL
+  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
