@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+bundle exec jekyll serve --livereload
+
+# requires ruby (version 3.0.0 and up)
+# run `bundle install` to install the required gems
