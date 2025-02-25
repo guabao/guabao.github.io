@@ -84,6 +84,7 @@ The **Recursive Least Squares (RLS) filter** is an adaptive algorithm used in si
 ---
 
 ### **Advantages vs. Disadvantages**
+
 | **Pros**                          | **Cons**                          |
 |-----------------------------------|-----------------------------------|
 | Faster convergence than LMS.      | Higher complexity (\\\( O(n^2) \\\)). |
